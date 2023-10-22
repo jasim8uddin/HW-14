@@ -10,8 +10,6 @@ function textChange() {
 }
  clickBtn.addEventListener("click" , textChange)
 
-
-
 // on
 let btnOn = document.querySelector(".btnOn")
 let img = document.querySelector("img")
